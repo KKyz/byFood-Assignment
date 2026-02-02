@@ -50,7 +50,7 @@ via Swagger, and a modern frontend built with Next.js.
 
 ```bash
 cd backend
-go run .
+go run .```
 
 
 The backend runs on:
