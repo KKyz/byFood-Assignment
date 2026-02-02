@@ -50,19 +50,27 @@ via Swagger, and a modern frontend built with Next.js.
 
 ```bash
 cd backend
-go run .```
-
+go run .
+```
 
 The backend runs on:
-http://localhost:8080
+- **API**: http://localhost:8080 (locally)
+- **Swagger UI**: http://localhost:8080/swagger/index.html (locally)
 
-Swagger UI
-http://localhost:8080/swagger/index.html
+---
 
-Frontend Setup
+## Frontend Setup
+
+```bash
 cd frontend
 npm install
 npm run dev
+```
+
+The frontend runs on:
+- **App**: http://localhost:3000 (locally)
+
+---
 
 ## Screenshots
 
