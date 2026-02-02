@@ -64,19 +64,19 @@ cd frontend
 npm install
 npm run dev
 
-Screenshots
+## Screenshots
 
-
+### Dashboard
 ![Dashboard](screenshots/Dashboard.png)
 
-
+### Book Detail Page
 ![Book Detail Page](screenshots/BookDetailPage.png)
 
-
+### Add Book Modal
 ![Add Book Modal](screenshots/AddModal.png)
 
-
+### Edit Book Modal
 ![Edit Book Modal](screenshots/EditModal.png)
 
-
+### Swagger UI
 ![Swagger UI](screenshots/SwaggerUI.png)
